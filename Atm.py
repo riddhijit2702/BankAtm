@@ -1,5 +1,3 @@
-from abc import abstractclassmethod
-from typing import Mapping
 
 
 class Atm(object):
