@@ -10,11 +10,11 @@ class Atm(object):
      
     
     def cardNumberCheck(self): 
-        x = input("Enter it here")
+      x =
         print("Your Balance is "+ x)
     
     def withdrawl(self,amount):
-        x = input("Enter it here")
+        amount = input("Enter it here")
         new_amount = x - amount
         print("you have withdrawn amount "+str(amount) +". Your remaining balance is "+ str(new_amount))
 def main():
