@@ -10,7 +10,7 @@ class Atm(object):
      
     
     def cardNumberCheck(self): 
-      x =
+      x = 5000
         print("Your Balance is "+ x)
     
     def withdrawl(self,amount):
